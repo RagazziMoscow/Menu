@@ -1,0 +1,23 @@
+{
+  "name": "Forum",
+  "authors": [
+    "Ilya <iliya5376@mail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "1312"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
